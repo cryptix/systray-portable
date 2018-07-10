@@ -1,6 +1,7 @@
-# systray-portable
-A portable version of [go systray](https://github.com/getlantern/systray), using stdin/stdout to communicate with other language
+# forked-systray
+A portable version of [go systray](https://github.com/getlantern/systray), using json objects over stdio to communicate with other languages.
 
+Note(cryptix): keeping this as a common base for zaacks [upstream version](https://github.com/zaaack/systray-portable) but will use this commit as the base for a new repo to reduce its size.
 
 ## Protocol
 
